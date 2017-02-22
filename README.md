@@ -7,12 +7,8 @@ you can found the icon theme [here](https://github.com/Manu-sh/NeonFvwmIconTheme
 
 ###Installation
 ```bash
-
-# clone
 git clone https://github.com/Manu-sh/NeonFvwmGtkTheme
-
 cd NeonFvwmGtkTheme
-
 sudo cp -R NeonFvwmGtk /usr/share/themes
 ```
 
