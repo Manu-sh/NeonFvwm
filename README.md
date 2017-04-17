@@ -1,5 +1,6 @@
 # NeonFvwmGtk
 
+###### note: gtk3 is not supported
 NeonFvwmGtk is a fork of [Diehard4](https://github.com/tacojones/Diehard4),
 you can found the icon theme [here](https://github.com/Manu-sh/NeonFvwmIconTheme)
 
